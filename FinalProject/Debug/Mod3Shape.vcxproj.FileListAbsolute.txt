@@ -1,0 +1,2 @@
+U:\Mod3Shape\Debug\Mod3Shape.exe
+U:\Mod3Shape\Debug\Mod3Shape.pdb

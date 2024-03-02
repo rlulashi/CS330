@@ -1,0 +1,4 @@
+﻿  Mod3Shape.cpp
+U:\Mod3Shape\Mod3Shape.cpp(37,33): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+U:\Mod3Shape\Mod3Shape.cpp(52,61): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Mod3Shape.vcxproj -> U:\Mod3Shape\Debug\Mod3Shape.exe
